@@ -4,4 +4,4 @@ int main()
     return(0);
 }
 
-// Editing on githum.
+// Editing on github.
